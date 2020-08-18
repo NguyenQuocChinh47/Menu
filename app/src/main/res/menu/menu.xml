@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Setting"
+        android:orderInCategory="1"
+        android:id="@+id/menuSetting"/>
+    <item android:title="Share"
+        android:orderInCategory="2"
+        android:id="@+id/menuShare"/>
+    <item android:title="Search"
+        android:orderInCategory="3"
+        android:id="@+id/menuSearch"/>
+    <item android:title="Contact"
+        android:orderInCategory="4"
+        android:id="@+id/menuContact">
+    </item>
+</menu>
